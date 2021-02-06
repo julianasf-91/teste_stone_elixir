@@ -7,7 +7,7 @@ Dentro desta pasta contem três arquivos:
 
 Instruções para ver o resultado do teste:
 
-1 - Clonar o repositório;
-2 - Abrir a pasta no Virtual Studio Code;
-3 - Abrir um novo terminal e digitar index.js;
-4 - Irá visualizar no terminal a lista de produtos, emails e por último, o mapa com emails e valores.
+- Clonar o repositório;
+- Abrir a pasta no Virtual Studio Code;
+- Abrir um novo terminal e digitar index.js;
+- Irá visualizar no terminal a lista de produtos, emails e por último, o mapa com emails e valores.
